@@ -9,4 +9,9 @@ rgs = {
         location = "west us"
         managed_by = "rahul"
     }
+      rg_03 = {
+        name = "rahulrg03"
+        location = "east us"
+        managed_by = "rahul"
+    }
 }
